@@ -1,0 +1,22 @@
+.wrapper {
+    border: silver;
+    border-style: dashed;
+    height: 81px;
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+.cont1 {
+    margin-top: 31px;
+    margin-right: 94px;
+    float: right;
+}
+
+.img {
+    float: left;
+    margin-left: 95px;
+    margin-top: 25px;
+}
